@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+	<defs>
+		<style>
+			text { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica, Arial; }
+		</style>
+	</defs>
+	<rect width="1600" height="900" fill="#1a1a1c"/>
+	<rect x="40" y="40" width="1520" height="820" fill="#2a2b2f" stroke="#333"/>
+	<text x="800" y="470" fill="#a7a7a7" font-size="56" text-anchor="middle">Image Placeholder</text>
+</svg>
